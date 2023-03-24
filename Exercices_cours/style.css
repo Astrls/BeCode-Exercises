@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    height: 80px;
+    background-color:blueviolet;
+}
+
+div {
+    height: 80px;
+    background-color:darkgreen;
+}
